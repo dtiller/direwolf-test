@@ -1,0 +1,278 @@
+Dire Wolf version 1.6
+Includes optional support for:  hamlib
+
+Reading config file direwolf.conf
+Audio input device for receive: stdin  (channel 0)
+Audio out device for transmit: Built-in Output  (channel 0)
+Audio input buffer has unexpected extreme size of 0 bytes.
+Detected at /Users/dtiller/direwolf-master/src/audio_portaudio.c, line 724.
+This might be caused by unusual audio device configuration values.
+Using 2048 to attempt recovery.
+Audio output buffer has unexpected extreme size of 0 bytes.
+Detected at /Users/dtiller/direwolf-master/src/audio_portaudio.c, line 733.
+This might be caused by unusual audio device configuration values.
+Using 2048 to attempt recovery.
+Channel 0: 1200 baud, AFSK 1200 & 1800 Hz, E+, 24000 sample rate.
+Note: PTT not configured for channel 0. (Ignore this if using VOX.)
+Ready to accept AGW client application 0 on port 8000 ...
+Ready to accept KISS TCP client application 0 on port 8001 ...
+
+EOTD audio level = 86(31/25)   [NONE]   __||_____
+[0.2] EOTD>APDW16:{DTREAR>FRONT:ts=2022-04-05T10:28:49,chain=ONLY,devbat=OK,msgid=ONEWAY,unit_addr=18151,brake_status=GO(48 psig),disc_bits=b0,valve=OPERATIONAL,confirm=UPDATE,disc_bit_1=1,motion=STOPPED/NOT_MONITORED,light_batt=OK/NOT_MONITORED,light=ON,hex=9c 8c 92 d8 30 23 73 8f
+User-Defined Data, DireWolf, WB2OSZ
+
+EOTD audio level = 81(28/23)   [NONE]   __||_____
+[0.2] EOTD>APDW16:{DTREAR>FRONT:ts=2022-04-05T10:28:49,chain=ONLY,devbat=OK,msgid=ONEWAY,unit_addr=18151,brake_status=GO(48 psig),disc_bits=b0,valve=OPERATIONAL,confirm=UPDATE,disc_bit_1=1,motion=STOPPED/NOT_MONITORED,light_batt=OK/NOT_MONITORED,light=ON,hex=1c 8c 92 d8 30 23 73 8f
+User-Defined Data, DireWolf, WB2OSZ
+
+EOTD audio level = 85(14/15)   [NONE]   __||_____
+[0.2] EOTD>APDW16:{DTREAR>FRONT:ts=2022-04-05T10:28:51,chain=ONLY,devbat=OK,msgid=ONEWAY,unit_addr=18151,brake_status=GO(48 psig),disc_bits=b0,valve=OPERATIONAL,confirm=UPDATE,disc_bit_1=1,motion=STOPPED/NOT_MONITORED,light_batt=OK/NOT_MONITORED,light=ON,hex=9c 8c 92 d8 30 23 73 8f
+User-Defined Data, DireWolf, WB2OSZ
+
+EOTD audio level = 87(24/21)   [NONE]   __||_____
+[0.2] EOTD>APDW16:{DTREAR>FRONT:ts=2022-04-05T10:29:02,chain=ONLY,devbat=OK,msgid=ONEWAY,unit_addr=18151,brake_status=GO(48 psig),disc_bits=b2,valve=OPERATIONAL,confirm=UPDATE,disc_bit_1=1,motion=STOPPED/NOT_MONITORED,light_batt=OK/NOT_MONITORED,light=ON,hex=bd 02 92 d9 30 23 73 8f
+User-Defined Data, DireWolf, WB2OSZ
+
+EOTD audio level = 80(22/20)   [NONE]   __||_____
+[0.2] EOTD>APDW16:{DTREAR>FRONT:ts=2022-04-05T10:29:02,chain=ONLY,devbat=OK,msgid=ONEWAY,unit_addr=18151,brake_status=GO(48 psig),disc_bits=b2,valve=OPERATIONAL,confirm=UPDATE,disc_bit_1=1,motion=STOPPED/NOT_MONITORED,light_batt=OK/NOT_MONITORED,light=ON,hex=bd 02 92 d9 30 23 73 8f
+User-Defined Data, DireWolf, WB2OSZ
+
+EOTD audio level = 86(22/18)   [NONE]   __||_____
+[0.2] EOTD>APDW16:{DTREAR>FRONT:ts=2022-04-05T10:29:04,chain=ONLY,devbat=OK,msgid=ONEWAY,unit_addr=18151,brake_status=GO(48 psig),disc_bits=b2,valve=OPERATIONAL,confirm=UPDATE,disc_bit_1=1,motion=STOPPED/NOT_MONITORED,light_batt=OK/NOT_MONITORED,light=ON,hex=bd 02 92 d9 30 23 73 8f
+User-Defined Data, DireWolf, WB2OSZ
+
+EOTD audio level = 85(30/24)   [NONE]   ___|_____
+[0.3] EOTD>APDW16:{DTREAR>FRONT:ts=2022-04-05T10:29:07,chain=ONLY,devbat=OK,msgid=ONEWAY,unit_addr=5975,brake_status=NO-GO(0 psig),disc_bits=2e,valve=OPERATIONAL,confirm=RESPONSE,disc_bit_1=0,motion=STOPPED/NOT_MONITORED,light_batt=OK/NOT_MONITORED,light=OFF/NOT_MONITORED,hex=b2 da 41 97 00 0b ab 8f
+User-Defined Data, DireWolf, WB2OSZ
+
+EOTD audio level = 78(28/22)   [NONE]   __||_____
+[0.2] EOTD>APDW16:{DTREAR>FRONT:ts=2022-04-05T10:29:07,chain=ONLY,devbat=OK,msgid=ONEWAY,unit_addr=5975,brake_status=NO-GO(0 psig),disc_bits=2e,valve=OPERATIONAL,confirm=RESPONSE,disc_bit_1=0,motion=STOPPED/NOT_MONITORED,light_batt=OK/NOT_MONITORED,light=OFF/NOT_MONITORED,hex=b2 da 41 97 00 0b ab 8f
+User-Defined Data, DireWolf, WB2OSZ
+
+EOTD audio level = 86(39/35)   [NONE]   __||_____
+[0.2] EOTD>APDW16:{DTREAR>FRONT:ts=2022-04-05T10:29:09,chain=ONLY,devbat=OK,msgid=ONEWAY,unit_addr=5411,brake_status=GO(71 psig),disc_bits=00,valve=OPERATIONAL,confirm=UPDATE,disc_bit_1=1,motion=STOPPED/NOT_MONITORED,light_batt=OK/NOT_MONITORED,light=OFF/NOT_MONITORED,hex=e6 84 02 80 47 0a 91 8f
+User-Defined Data, DireWolf, WB2OSZ
+
+EOTD audio level = 79(35/32)   [NONE]   __||_____
+[0.2] EOTD>APDW16:{DTREAR>FRONT:ts=2022-04-05T10:29:10,chain=ONLY,devbat=OK,msgid=ONEWAY,unit_addr=5411,brake_status=GO(71 psig),disc_bits=00,valve=OPERATIONAL,confirm=UPDATE,disc_bit_1=1,motion=STOPPED/NOT_MONITORED,light_batt=OK/NOT_MONITORED,light=OFF/NOT_MONITORED,hex=e6 84 02 80 47 0a 91 8f
+User-Defined Data, DireWolf, WB2OSZ
+
+EOTD audio level = 87(25/23)   [NONE]   __||_____
+[0.2] EOTD>APDW16:{DTREAR>FRONT:ts=2022-04-05T10:29:12,chain=ONLY,devbat=OK,msgid=ONEWAY,unit_addr=5411,brake_status=GO(71 psig),disc_bits=00,valve=OPERATIONAL,confirm=UPDATE,disc_bit_1=1,motion=STOPPED/NOT_MONITORED,light_batt=OK/NOT_MONITORED,light=OFF/NOT_MONITORED,hex=e6 84 02 80 47 0a 91 8f
+User-Defined Data, DireWolf, WB2OSZ
+
+EOTD audio level = 85(29/34)   [NONE]   __||_____
+[0.2] EOTD>APDW16:{DTREAR>FRONT:ts=2022-04-05T10:29:14,chain=ONLY,devbat=OK,msgid=ONEWAY,unit_addr=4548,brake_status=GO(86 psig),disc_bits=00,valve=OPERATIONAL,confirm=RESPONSE,disc_bit_1=1,motion=IN_MOTION,light_batt=OK/NOT_MONITORED,light=OFF/NOT_MONITORED,hex=df c5 67 80 56 08 e2 0f
+User-Defined Data, DireWolf, WB2OSZ
+
+EOTD audio level = 85(15/17)   [NONE]   __||_____
+[0.2] EOTD>APDW16:{DTREAR>FRONT:ts=2022-04-05T10:29:15,chain=ONLY,devbat=OK,msgid=ONEWAY,unit_addr=18151,brake_status=GO(48 psig),disc_bits=b4,valve=OPERATIONAL,confirm=UPDATE,disc_bit_1=1,motion=STOPPED/NOT_MONITORED,light_batt=OK/NOT_MONITORED,light=ON,hex=8c 4b 92 da 30 23 73 8f
+User-Defined Data, DireWolf, WB2OSZ
+
+EOTD audio level = 77(14/16)   [NONE]   __||_____
+[0.2] EOTD>APDW16:{DTREAR>FRONT:ts=2022-04-05T10:29:15,chain=ONLY,devbat=OK,msgid=ONEWAY,unit_addr=18151,brake_status=GO(48 psig),disc_bits=b4,valve=OPERATIONAL,confirm=UPDATE,disc_bit_1=1,motion=STOPPED/NOT_MONITORED,light_batt=OK/NOT_MONITORED,light=ON,hex=8c 4b 92 da 30 23 73 8f
+User-Defined Data, DireWolf, WB2OSZ
+
+EOTD audio level = 86(31/33)   [NONE]   __||_____
+[0.2] EOTD>APDW16:{DTREAR>FRONT:ts=2022-04-05T10:29:16,chain=ONLY,devbat=OK,msgid=ONEWAY,unit_addr=4548,brake_status=GO(86 psig),disc_bits=00,valve=OPERATIONAL,confirm=RESPONSE,disc_bit_1=1,motion=IN_MOTION,light_batt=OK/NOT_MONITORED,light=OFF/NOT_MONITORED,hex=df c5 67 80 56 08 e2 0f
+User-Defined Data, DireWolf, WB2OSZ
+
+EOTD audio level = 87(26/27)   [NONE]   __||_____
+[0.2] EOTD>APDW16:{DTREAR>FRONT:ts=2022-04-05T10:29:17,chain=ONLY,devbat=OK,msgid=ONEWAY,unit_addr=18151,brake_status=GO(48 psig),disc_bits=b4,valve=OPERATIONAL,confirm=UPDATE,disc_bit_1=1,motion=STOPPED/NOT_MONITORED,light_batt=OK/NOT_MONITORED,light=ON,hex=0c 4b 92 da 30 23 73 8f
+User-Defined Data, DireWolf, WB2OSZ
+
+EOTD audio level = 86(33/37)   [NONE]   __||_____
+[0.2] EOTD>APDW16:{DTREAR>FRONT:ts=2022-04-05T10:29:20,chain=ONLY,devbat=OK,msgid=ONEWAY,unit_addr=5975,brake_status=NO-GO(0 psig),disc_bits=2a,valve=OPERATIONAL,confirm=UPDATE,disc_bit_1=0,motion=STOPPED/NOT_MONITORED,light_batt=OK/NOT_MONITORED,light=OFF/NOT_MONITORED,hex=d5 15 a0 95 00 0b ab 8f
+User-Defined Data, DireWolf, WB2OSZ
+
+EOTD audio level = 80(30/33)   [NONE]   __||_____
+[0.2] EOTD>APDW16:{DTREAR>FRONT:ts=2022-04-05T10:29:20,chain=ONLY,devbat=OK,msgid=ONEWAY,unit_addr=5975,brake_status=NO-GO(0 psig),disc_bits=2a,valve=OPERATIONAL,confirm=UPDATE,disc_bit_1=0,motion=STOPPED/NOT_MONITORED,light_batt=OK/NOT_MONITORED,light=OFF/NOT_MONITORED,hex=d5 15 a0 95 00 0b ab 8f
+User-Defined Data, DireWolf, WB2OSZ
+
+EOTD audio level = 86(37/39)   [NONE]   __||_____
+[0.2] EOTD>APDW16:{DTREAR>FRONT:ts=2022-04-05T10:29:28,chain=ONLY,devbat=OK,msgid=ONEWAY,unit_addr=18151,brake_status=GO(48 psig),disc_bits=b6,valve=OPERATIONAL,confirm=UPDATE,disc_bit_1=1,motion=STOPPED/NOT_MONITORED,light_batt=OK/NOT_MONITORED,light=ON,hex=ad c5 92 db 30 23 73 8f
+User-Defined Data, DireWolf, WB2OSZ
+
+EOTD audio level = 82(33/35)   [NONE]   __||_____
+[0.2] EOTD>APDW16:{DTREAR>FRONT:ts=2022-04-05T10:29:28,chain=ONLY,devbat=OK,msgid=ONEWAY,unit_addr=18151,brake_status=GO(48 psig),disc_bits=b6,valve=OPERATIONAL,confirm=UPDATE,disc_bit_1=1,motion=STOPPED/NOT_MONITORED,light_batt=OK/NOT_MONITORED,light=ON,hex=ad c5 92 db 30 23 73 8f
+User-Defined Data, DireWolf, WB2OSZ
+
+EOTD audio level = 85(42/36)   [NONE]   __||_____
+[0.2] EOTD>APDW16:{DTREAR>FRONT:ts=2022-04-05T10:29:30,chain=ONLY,devbat=OK,msgid=ONEWAY,unit_addr=18151,brake_status=GO(48 psig),disc_bits=b6,valve=OPERATIONAL,confirm=UPDATE,disc_bit_1=1,motion=STOPPED/NOT_MONITORED,light_batt=OK/NOT_MONITORED,light=ON,hex=2d c5 92 db 30 23 73 8f
+User-Defined Data, DireWolf, WB2OSZ
+
+EOTD audio level = 85(43/37)   [NONE]   __||_____
+[0.2] EOTD>APDW16:{DTREAR>FRONT:ts=2022-04-05T10:29:32,chain=ONLY,devbat=OK,msgid=ONEWAY,unit_addr=18151,brake_status=GO(48 psig),disc_bits=b8,valve=OPERATIONAL,confirm=UPDATE,disc_bit_1=1,motion=STOPPED/NOT_MONITORED,light_batt=OK/NOT_MONITORED,light=ON,hex=94 ef 12 dc 30 23 73 8f
+User-Defined Data, DireWolf, WB2OSZ
+
+EOTD audio level = 81(39/34)   [NONE]   __||_____
+[0.2] EOTD>APDW16:{DTREAR>FRONT:ts=2022-04-05T10:29:32,chain=ONLY,devbat=OK,msgid=ONEWAY,unit_addr=18151,brake_status=GO(48 psig),disc_bits=b8,valve=OPERATIONAL,confirm=UPDATE,disc_bit_1=1,motion=STOPPED/NOT_MONITORED,light_batt=OK/NOT_MONITORED,light=ON,hex=94 ef 12 dc 30 23 73 8f
+User-Defined Data, DireWolf, WB2OSZ
+
+EOTD audio level = 87(34/32)   [NONE]   __||_____
+[0.2] EOTD>APDW16:{DTREAR>FRONT:ts=2022-04-05T10:29:33,chain=ONLY,devbat=OK,msgid=ONEWAY,unit_addr=5411,brake_status=GO(66 psig),disc_bits=00,valve=OPERATIONAL,confirm=UPDATE,disc_bit_1=1,motion=STOPPED/NOT_MONITORED,light_batt=OK/NOT_MONITORED,light=OFF/NOT_MONITORED,hex=a0 2f 62 80 42 0a 91 8f
+User-Defined Data, DireWolf, WB2OSZ
+
+EOTD audio level = 82(30/29)   [NONE]   __||_____
+[0.2] EOTD>APDW16:{DTREAR>FRONT:ts=2022-04-05T10:29:33,chain=ONLY,devbat=OK,msgid=ONEWAY,unit_addr=5411,brake_status=GO(66 psig),disc_bits=00,valve=OPERATIONAL,confirm=UPDATE,disc_bit_1=1,motion=STOPPED/NOT_MONITORED,light_batt=OK/NOT_MONITORED,light=OFF/NOT_MONITORED,hex=a0 2f 62 80 42 0a 91 8f
+User-Defined Data, DireWolf, WB2OSZ
+
+EOTD audio level = 83(33/31)   [NONE]   __||_____
+[0.2] EOTD>APDW16:{DTREAR>FRONT:ts=2022-04-05T10:29:34,chain=ONLY,devbat=OK,msgid=ONEWAY,unit_addr=18151,brake_status=GO(48 psig),disc_bits=b8,valve=OPERATIONAL,confirm=UPDATE,disc_bit_1=1,motion=STOPPED/NOT_MONITORED,light_batt=OK/NOT_MONITORED,light=ON,hex=94 ef 12 dc 30 23 73 8f
+User-Defined Data, DireWolf, WB2OSZ
+
+EOTD audio level = 85(35/31)   [NONE]   __||_____
+[0.2] EOTD>APDW16:{DTREAR>FRONT:ts=2022-04-05T10:29:35,chain=ONLY,devbat=OK,msgid=ONEWAY,unit_addr=5411,brake_status=GO(56 psig),disc_bits=00,valve=OPERATIONAL,confirm=UPDATE,disc_bit_1=1,motion=STOPPED/NOT_MONITORED,light_batt=OK/NOT_MONITORED,light=OFF/NOT_MONITORED,hex=a8 99 a2 80 38 0a 91 8f
+User-Defined Data, DireWolf, WB2OSZ
+
+EOTD audio level = 80(32/28)   [NONE]   __||_____
+[0.2] EOTD>APDW16:{DTREAR>FRONT:ts=2022-04-05T10:29:35,chain=ONLY,devbat=OK,msgid=ONEWAY,unit_addr=5411,brake_status=GO(56 psig),disc_bits=00,valve=OPERATIONAL,confirm=UPDATE,disc_bit_1=1,motion=STOPPED/NOT_MONITORED,light_batt=OK/NOT_MONITORED,light=OFF/NOT_MONITORED,hex=a8 99 a2 80 38 0a 91 8f
+User-Defined Data, DireWolf, WB2OSZ
+
+EOTD audio level = 84(40/36)   [NONE]   __||_____
+[0.2] EOTD>APDW16:{DTREAR>FRONT:ts=2022-04-05T10:29:37,chain=ONLY,devbat=OK,msgid=ONEWAY,unit_addr=5411,brake_status=NO-GO(24 psig),disc_bits=00,valve=OPERATIONAL,confirm=UPDATE,disc_bit_1=1,motion=STOPPED/NOT_MONITORED,light_batt=OK/NOT_MONITORED,light=OFF/NOT_MONITORED,hex=b4 03 82 80 18 0a 91 8f
+User-Defined Data, DireWolf, WB2OSZ
+
+EOTD audio level = 79(36/32)   [NONE]   __||_____
+[0.2] EOTD>APDW16:{DTREAR>FRONT:ts=2022-04-05T10:29:37,chain=ONLY,devbat=OK,msgid=ONEWAY,unit_addr=5411,brake_status=NO-GO(24 psig),disc_bits=00,valve=OPERATIONAL,confirm=UPDATE,disc_bit_1=1,motion=STOPPED/NOT_MONITORED,light_batt=OK/NOT_MONITORED,light=OFF/NOT_MONITORED,hex=b4 03 82 80 18 0a 91 8f
+User-Defined Data, DireWolf, WB2OSZ
+
+EOTD audio level = 86(30/27)   [NONE]   __||_____
+[0.2] EOTD>APDW16:{DTREAR>FRONT:ts=2022-04-05T10:29:37,chain=ONLY,devbat=OK,msgid=ONEWAY,unit_addr=4548,brake_status=GO(86 psig),disc_bits=00,valve=OPERATIONAL,confirm=UPDATE,disc_bit_1=1,motion=IN_MOTION,light_batt=OK/NOT_MONITORED,light=OFF/NOT_MONITORED,hex=a8 cd 86 80 56 08 e2 0f
+User-Defined Data, DireWolf, WB2OSZ
+
+EOTD audio level = 77(27/25)   [NONE]   __||_____
+[0.2] EOTD>APDW16:{DTREAR>FRONT:ts=2022-04-05T10:29:38,chain=ONLY,devbat=OK,msgid=ONEWAY,unit_addr=4548,brake_status=GO(86 psig),disc_bits=00,valve=OPERATIONAL,confirm=UPDATE,disc_bit_1=1,motion=IN_MOTION,light_batt=OK/NOT_MONITORED,light=OFF/NOT_MONITORED,hex=a8 cd 86 80 56 08 e2 0f
+User-Defined Data, DireWolf, WB2OSZ
+
+EOTD audio level = 86(19/17)   [NONE]   __||_____
+[0.2] EOTD>APDW16:{DTREAR>FRONT:ts=2022-04-05T10:29:39,chain=ONLY,devbat=OK,msgid=ONEWAY,unit_addr=5411,brake_status=NO-GO(10 psig),disc_bits=00,valve=OPERATIONAL,confirm=UPDATE,disc_bit_1=1,motion=STOPPED/NOT_MONITORED,light_batt=OK/NOT_MONITORED,light=OFF/NOT_MONITORED,hex=a4 26 02 80 0a 0a 91 8f
+User-Defined Data, DireWolf, WB2OSZ
+
+EOTD audio level = 77(17/16)   [NONE]   __||_____
+[0.2] EOTD>APDW16:{DTREAR>FRONT:ts=2022-04-05T10:29:40,chain=ONLY,devbat=OK,msgid=ONEWAY,unit_addr=5411,brake_status=NO-GO(10 psig),disc_bits=00,valve=OPERATIONAL,confirm=UPDATE,disc_bit_1=1,motion=STOPPED/NOT_MONITORED,light_batt=OK/NOT_MONITORED,light=OFF/NOT_MONITORED,hex=a4 26 02 80 0a 0a 91 8f
+User-Defined Data, DireWolf, WB2OSZ
+
+EOTD audio level = 86(16/14)   [NONE]   __||_____
+[0.2] EOTD>APDW16:{DTREAR>FRONT:ts=2022-04-05T10:29:40,chain=ONLY,devbat=OK,msgid=ONEWAY,unit_addr=18151,brake_status=GO(48 psig),disc_bits=b6,valve=OPERATIONAL,confirm=UPDATE,disc_bit_1=1,motion=STOPPED/NOT_MONITORED,light_batt=OK/NOT_MONITORED,light=ON,hex=ad c5 92 db 30 23 73 8f
+User-Defined Data, DireWolf, WB2OSZ
+
+EOTD audio level = 80(26/22)   [NONE]   ___|_____
+[0.3] EOTD>APDW16:{DTREAR>FRONT:ts=2022-04-05T10:29:42,chain=ONLY,devbat=OK,msgid=ONEWAY,unit_addr=18151,brake_status=GO(48 psig),disc_bits=ba,valve=OPERATIONAL,confirm=UPDATE,disc_bit_1=1,motion=STOPPED/NOT_MONITORED,light_batt=OK/NOT_MONITORED,light=ON,hex=35 61 12 dd 30 23 73 8f
+User-Defined Data, DireWolf, WB2OSZ
+
+EOTD audio level = 85(23/20)   [NONE]   __||_____
+[0.2] EOTD>APDW16:{DTREAR>FRONT:ts=2022-04-05T10:29:42,chain=ONLY,devbat=OK,msgid=ONEWAY,unit_addr=18151,brake_status=GO(48 psig),disc_bits=b8,valve=OPERATIONAL,confirm=UPDATE,disc_bit_1=1,motion=STOPPED/NOT_MONITORED,light_batt=OK/NOT_MONITORED,light=ON,hex=94 ef 12 dc 30 23 73 8f
+User-Defined Data, DireWolf, WB2OSZ
+
+EOTD audio level = 83(33/35)   [NONE]   __||_____
+[0.2] EOTD>APDW16:{DTREAR>FRONT:ts=2022-04-05T10:29:43,chain=ONLY,devbat=OK,msgid=ONEWAY,unit_addr=18151,brake_status=GO(48 psig),disc_bits=ba,valve=OPERATIONAL,confirm=UPDATE,disc_bit_1=1,motion=STOPPED/NOT_MONITORED,light_batt=OK/NOT_MONITORED,light=ON,hex=b5 61 12 dd 30 23 73 8f
+User-Defined Data, DireWolf, WB2OSZ
+
+EOTD audio level = 85(25/26)   [NONE]   __||_____
+[0.2] EOTD>APDW16:{DTREAR>FRONT:ts=2022-04-05T10:29:50,chain=ONLY,devbat=OK,msgid=ONEWAY,unit_addr=5411,brake_status=NO-GO(0 psig),disc_bits=00,valve=OPERATIONAL,confirm=UPDATE,disc_bit_1=0,motion=IN_MOTION,light_batt=OK/NOT_MONITORED,light=OFF/NOT_MONITORED,hex=9d 23 84 80 00 0a 91 8f
+User-Defined Data, DireWolf, WB2OSZ
+
+EOTD audio level = 79(23/24)   [NONE]   __||_____
+[0.2] EOTD>APDW16:{DTREAR>FRONT:ts=2022-04-05T10:29:50,chain=ONLY,devbat=OK,msgid=ONEWAY,unit_addr=5411,brake_status=NO-GO(0 psig),disc_bits=00,valve=OPERATIONAL,confirm=UPDATE,disc_bit_1=0,motion=IN_MOTION,light_batt=OK/NOT_MONITORED,light=OFF/NOT_MONITORED,hex=9d 23 84 80 00 0a 91 8f
+User-Defined Data, DireWolf, WB2OSZ
+
+EOTD audio level = 82(21/22)   [NONE]   __||_____
+[0.2] EOTD>APDW16:{DTREAR>FRONT:ts=2022-04-05T10:29:50,chain=ONLY,devbat=OK,msgid=ONEWAY,unit_addr=5411,brake_status=NO-GO(0 psig),disc_bits=00,valve=OPERATIONAL,confirm=UPDATE,disc_bit_1=0,motion=IN_MOTION,light_batt=OK/NOT_MONITORED,light=ON,hex=ed 7a 74 80 00 0a 91 8f
+User-Defined Data, DireWolf, WB2OSZ
+
+EOTD audio level = 87(29/26)   [NONE]   __||_____
+[0.2] EOTD>APDW16:{DTREAR>FRONT:ts=2022-04-05T10:29:55,chain=ONLY,devbat=OK,msgid=ONEWAY,unit_addr=18151,brake_status=GO(48 psig),disc_bits=bc,valve=OPERATIONAL,confirm=UPDATE,disc_bit_1=1,motion=STOPPED/NOT_MONITORED,light_batt=OK/NOT_MONITORED,light=ON,hex=84 28 12 de 30 23 73 8f
+User-Defined Data, DireWolf, WB2OSZ
+
+EOTD audio level = 81(27/24)   [NONE]   __||_____
+[0.2] EOTD>APDW16:{DTREAR>FRONT:ts=2022-04-05T10:29:55,chain=ONLY,devbat=OK,msgid=ONEWAY,unit_addr=18151,brake_status=GO(48 psig),disc_bits=bc,valve=OPERATIONAL,confirm=UPDATE,disc_bit_1=1,motion=STOPPED/NOT_MONITORED,light_batt=OK/NOT_MONITORED,light=ON,hex=84 28 12 de 30 23 73 8f
+User-Defined Data, DireWolf, WB2OSZ
+
+EOTD audio level = 83(25/21)   [NONE]   __||_____
+[0.2] EOTD>APDW16:{DTREAR>FRONT:ts=2022-04-05T10:29:57,chain=ONLY,devbat=OK,msgid=ONEWAY,unit_addr=18151,brake_status=GO(48 psig),disc_bits=bc,valve=OPERATIONAL,confirm=UPDATE,disc_bit_1=1,motion=STOPPED/NOT_MONITORED,light_batt=OK/NOT_MONITORED,light=ON,hex=84 28 12 de 30 23 73 8f
+User-Defined Data, DireWolf, WB2OSZ
+
+EOTD audio level = 86(23/22)   [NONE]   __||_____
+[0.2] EOTD>APDW16:{DTREAR>FRONT:ts=2022-04-05T10:30:08,chain=ONLY,devbat=OK,msgid=ONEWAY,unit_addr=18151,brake_status=GO(48 psig),disc_bits=be,valve=OPERATIONAL,confirm=UPDATE,disc_bit_1=1,motion=STOPPED/NOT_MONITORED,light_batt=OK/NOT_MONITORED,light=ON,hex=a5 a6 12 df 30 23 73 8f
+User-Defined Data, DireWolf, WB2OSZ
+
+EOTD audio level = 78(21/21)   [NONE]   __||_____
+[0.2] EOTD>APDW16:{DTREAR>FRONT:ts=2022-04-05T10:30:08,chain=ONLY,devbat=OK,msgid=ONEWAY,unit_addr=18151,brake_status=GO(48 psig),disc_bits=be,valve=OPERATIONAL,confirm=UPDATE,disc_bit_1=1,motion=STOPPED/NOT_MONITORED,light_batt=OK/NOT_MONITORED,light=ON,hex=a5 a6 12 df 30 23 73 8f
+User-Defined Data, DireWolf, WB2OSZ
+
+EOTD audio level = 86(22/21)   [NONE]   __||_____
+[0.2] EOTD>APDW16:{DTREAR>FRONT:ts=2022-04-05T10:30:10,chain=ONLY,devbat=OK,msgid=ONEWAY,unit_addr=18151,brake_status=GO(48 psig),disc_bits=be,valve=OPERATIONAL,confirm=UPDATE,disc_bit_1=1,motion=STOPPED/NOT_MONITORED,light_batt=OK/NOT_MONITORED,light=ON,hex=a5 a6 12 df 30 23 73 8f
+User-Defined Data, DireWolf, WB2OSZ
+
+EOTD audio level = 85(32/34)   [NONE]   __||_____
+[0.2] EOTD>APDW16:{DTREAR>FRONT:ts=2022-04-05T10:30:14,chain=ONLY,devbat=OK,msgid=ONEWAY,unit_addr=5411,brake_status=NO-GO(0 psig),disc_bits=00,valve=OPERATIONAL,confirm=RESPONSE,disc_bit_1=0,motion=IN_MOTION,light_batt=OK/NOT_MONITORED,light=ON,hex=9a 72 95 80 00 0a 91 8f
+User-Defined Data, DireWolf, WB2OSZ
+
+EOTD audio level = 80(29/31)   [NONE]   __||_____
+[0.2] EOTD>APDW16:{DTREAR>FRONT:ts=2022-04-05T10:30:14,chain=ONLY,devbat=OK,msgid=ONEWAY,unit_addr=5411,brake_status=NO-GO(0 psig),disc_bits=00,valve=OPERATIONAL,confirm=RESPONSE,disc_bit_1=0,motion=IN_MOTION,light_batt=OK/NOT_MONITORED,light=ON,hex=9a 72 95 80 00 0a 91 8f
+User-Defined Data, DireWolf, WB2OSZ
+
+EOTD audio level = 83(26/28)   [NONE]   __||_____
+[0.2] EOTD>APDW16:{DTREAR>FRONT:ts=2022-04-05T10:30:14,chain=ONLY,devbat=OK,msgid=ONEWAY,unit_addr=5411,brake_status=NO-GO(0 psig),disc_bits=00,valve=OPERATIONAL,confirm=UPDATE,disc_bit_1=0,motion=STOPPED/NOT_MONITORED,light_batt=OK/NOT_MONITORED,light=ON,hex=cc ae 30 80 00 0a 91 8f
+User-Defined Data, DireWolf, WB2OSZ
+
+EOTD audio level = 77(24/26)   [NONE]   __||_____
+[0.2] EOTD>APDW16:{DTREAR>FRONT:ts=2022-04-05T10:30:15,chain=ONLY,devbat=OK,msgid=ONEWAY,unit_addr=5411,brake_status=NO-GO(0 psig),disc_bits=00,valve=OPERATIONAL,confirm=UPDATE,disc_bit_1=0,motion=STOPPED/NOT_MONITORED,light_batt=OK/NOT_MONITORED,light=ON,hex=cc ae 30 80 00 0a 91 8f
+User-Defined Data, DireWolf, WB2OSZ
+
+EOTD audio level = 84(22/22)   [NONE]   __||_____
+[0.2] EOTD>APDW16:{DTREAR>FRONT:ts=2022-04-05T10:30:17,chain=ONLY,devbat=OK,msgid=ONEWAY,unit_addr=5411,brake_status=NO-GO(0 psig),disc_bits=00,valve=OPERATIONAL,confirm=UPDATE,disc_bit_1=0,motion=IN_MOTION,light_batt=OK/NOT_MONITORED,light=ON,hex=ed 7a 74 80 00 0a 91 8f
+User-Defined Data, DireWolf, WB2OSZ
+
+EOTD audio level = 77(20/20)   [NONE]   __||_____
+[0.2] EOTD>APDW16:{DTREAR>FRONT:ts=2022-04-05T10:30:17,chain=ONLY,devbat=OK,msgid=ONEWAY,unit_addr=5411,brake_status=NO-GO(0 psig),disc_bits=00,valve=OPERATIONAL,confirm=UPDATE,disc_bit_1=0,motion=IN_MOTION,light_batt=OK/NOT_MONITORED,light=ON,hex=ed 7a 74 80 00 0a 91 8f
+User-Defined Data, DireWolf, WB2OSZ
+
+EOTD audio level = 84(29/32)   [NONE]   __||_____
+[0.2] EOTD>APDW16:{DTREAR>FRONT:ts=2022-04-05T10:30:20,chain=ONLY,devbat=OK,msgid=ONEWAY,unit_addr=5975,brake_status=NO-GO(0 psig),disc_bits=2c,valve=OPERATIONAL,confirm=UPDATE,disc_bit_1=0,motion=STOPPED/NOT_MONITORED,light_batt=OK/NOT_MONITORED,light=OFF/NOT_MONITORED,hex=e4 5c a0 96 00 0b ab 8f
+User-Defined Data, DireWolf, WB2OSZ
+
+EOTD audio level = 74(27/30)   [NONE]   __||_____
+[0.2] EOTD>APDW16:{DTREAR>FRONT:ts=2022-04-05T10:30:21,chain=ONLY,devbat=OK,msgid=ONEWAY,unit_addr=5975,brake_status=NO-GO(0 psig),disc_bits=2c,valve=OPERATIONAL,confirm=UPDATE,disc_bit_1=0,motion=STOPPED/NOT_MONITORED,light_batt=OK/NOT_MONITORED,light=OFF/NOT_MONITORED,hex=e4 5c a0 96 00 0b ab 8f
+User-Defined Data, DireWolf, WB2OSZ
+
+EOTD audio level = 86(17/19)   [NONE]   __||_____
+[0.2] EOTD>APDW16:{DTREAR>FRONT:ts=2022-04-05T10:30:21,chain=ONLY,devbat=OK,msgid=ONEWAY,unit_addr=18151,brake_status=GO(49 psig),disc_bits=c0,valve=OPERATIONAL,confirm=UPDATE,disc_bit_1=1,motion=STOPPED/NOT_MONITORED,light_batt=OK/NOT_MONITORED,light=ON,hex=b1 a6 b2 e0 31 23 73 8f
+User-Defined Data, DireWolf, WB2OSZ
+
+EOTD audio level = 78(16/18)   [NONE]   __||_____
+[0.2] EOTD>APDW16:{DTREAR>FRONT:ts=2022-04-05T10:30:21,chain=ONLY,devbat=OK,msgid=ONEWAY,unit_addr=18151,brake_status=GO(49 psig),disc_bits=c0,valve=OPERATIONAL,confirm=UPDATE,disc_bit_1=1,motion=STOPPED/NOT_MONITORED,light_batt=OK/NOT_MONITORED,light=ON,hex=b1 a6 b2 e0 31 23 73 8f
+User-Defined Data, DireWolf, WB2OSZ
+
+EOTD audio level = 92(38/43)   [NONE]   __||_____
+[0.2] EOTD>APDW16:{DTREAR>FRONT:ts=2022-04-05T10:30:23,chain=ONLY,devbat=OK,msgid=ONEWAY,unit_addr=18151,brake_status=GO(49 psig),disc_bits=c0,valve=OPERATIONAL,confirm=UPDATE,disc_bit_1=1,motion=STOPPED/NOT_MONITORED,light_batt=OK/NOT_MONITORED,light=ON,hex=b1 a6 b2 e0 31 23 73 8f
+User-Defined Data, DireWolf, WB2OSZ
+
+EOTD audio level = 85(14/13)   [NONE]   __||_____
+[0.2] EOTD>APDW16:{DTREAR>FRONT:ts=2022-04-05T10:30:34,chain=ONLY,devbat=OK,msgid=ONEWAY,unit_addr=18151,brake_status=GO(49 psig),disc_bits=c2,valve=OPERATIONAL,confirm=UPDATE,disc_bit_1=1,motion=STOPPED/NOT_MONITORED,light_batt=OK/NOT_MONITORED,light=ON,hex=90 28 b2 e1 31 23 73 8f
+User-Defined Data, DireWolf, WB2OSZ
+
+EOTD audio level = 80(13/12)   [NONE]   __||_____
+[0.2] EOTD>APDW16:{DTREAR>FRONT:ts=2022-04-05T10:30:34,chain=ONLY,devbat=OK,msgid=ONEWAY,unit_addr=18151,brake_status=GO(49 psig),disc_bits=c2,valve=OPERATIONAL,confirm=UPDATE,disc_bit_1=1,motion=STOPPED/NOT_MONITORED,light_batt=OK/NOT_MONITORED,light=ON,hex=90 28 b2 e1 31 23 73 8f
+User-Defined Data, DireWolf, WB2OSZ
+
+EOTD audio level = 85(13/12)   [NONE]   __||_____
+[0.2] EOTD>APDW16:{DTREAR>FRONT:ts=2022-04-05T10:30:35,chain=ONLY,devbat=OK,msgid=ONEWAY,unit_addr=18151,brake_status=GO(49 psig),disc_bits=c4,valve=OPERATIONAL,confirm=UPDATE,disc_bit_1=1,motion=STOPPED/NOT_MONITORED,light_batt=OK/NOT_MONITORED,light=ON,hex=a1 61 b2 e2 31 23 73 8f
+User-Defined Data, DireWolf, WB2OSZ
+
+EOTD audio level = 81(13/12)   [NONE]   __||_____
+[0.2] EOTD>APDW16:{DTREAR>FRONT:ts=2022-04-05T10:30:35,chain=ONLY,devbat=OK,msgid=ONEWAY,unit_addr=18151,brake_status=GO(49 psig),disc_bits=c4,valve=OPERATIONAL,confirm=UPDATE,disc_bit_1=1,motion=STOPPED/NOT_MONITORED,light_batt=OK/NOT_MONITORED,light=ON,hex=a1 61 b2 e2 31 23 73 8f
+User-Defined Data, DireWolf, WB2OSZ
+
+EOTD audio level = 86(16/16)   [NONE]   __||_____
+[0.2] EOTD>APDW16:{DTREAR>FRONT:ts=2022-04-05T10:30:36,chain=ONLY,devbat=OK,msgid=ONEWAY,unit_addr=18151,brake_status=GO(49 psig),disc_bits=c4,valve=OPERATIONAL,confirm=UPDATE,disc_bit_1=1,motion=STOPPED/NOT_MONITORED,light_batt=OK/NOT_MONITORED,light=ON,hex=21 61 b2 e2 31 23 73 8f
+User-Defined Data, DireWolf, WB2OSZ
+
+EOTD audio level = 86(13/12)   [NONE]   ___|_____
+[0.3] EOTD>APDW16:{DTREAR>FRONT:ts=2022-04-05T10:30:38,chain=ONLY,devbat=OK,msgid=ONEWAY,unit_addr=4548,brake_status=GO(86 psig),disc_bits=00,valve=OPERATIONAL,confirm=UPDATE,disc_bit_1=1,motion=IN_MOTION,light_batt=OK/NOT_MONITORED,light=OFF/NOT_MONITORED,hex=a8 cd 86 80 56 08 e2 0f
+User-Defined Data, DireWolf, WB2OSZ
+
+EOTD audio level = 85(14/16)   [NONE]   __||_____
+[0.2] EOTD>APDW16:{DTREAR>FRONT:ts=2022-04-05T10:30:39,chain=ONLY,devbat=OK,msgid=ONEWAY,unit_addr=4548,brake_status=GO(86 psig),disc_bits=00,valve=OPERATIONAL,confirm=UPDATE,disc_bit_1=1,motion=IN_MOTION,light_batt=OK/NOT_MONITORED,light=OFF/NOT_MONITORED,hex=a8 cd 86 80 56 08 e2 0f
+User-Defined Data, DireWolf, WB2OSZ

@@ -1,0 +1,19 @@
+The .bin files are raw signed 16 bit, one channel audio samples at 24000 samples/sec.
+The text files are the decoding of those packets at the time they were collected, but
+note that the output format has changed since then. Mostly I wanted to have the timestamps.
+
+The filenames are formatted as YYYY-MM-DD-HH-MM-SS_FREQUENCY_SAMPLERATE.xxx
+
+Files on 452.9375 MHz are Front-to-Rear. 457.9375 MHz is Rear-to-Front.
+
+To use the files singly:
+
+direwolf -B EOTD -r 24000 - < 'testfile'.bin
+
+--or all of them:
+
+cat *.bin | direwolf -B EOTD -r 24000 -
+
+--or just from one frequency:
+
+cat *452*.bin | direwolf -B EOTD -r 24000 -

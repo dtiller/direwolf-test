@@ -1,0 +1,78 @@
+Dire Wolf version 1.6
+Includes optional support for:  hamlib
+
+Reading config file direwolf.conf
+Audio input device for receive: stdin  (channel 0)
+Audio out device for transmit: Built-in Output  (channel 0)
+Audio input buffer has unexpected extreme size of 0 bytes.
+Detected at /Users/dtiller/direwolf-master/src/audio_portaudio.c, line 724.
+This might be caused by unusual audio device configuration values.
+Using 2048 to attempt recovery.
+Audio output buffer has unexpected extreme size of 0 bytes.
+Detected at /Users/dtiller/direwolf-master/src/audio_portaudio.c, line 733.
+This might be caused by unusual audio device configuration values.
+Using 2048 to attempt recovery.
+Channel 0: 1200 baud, AFSK 1200 & 1800 Hz, E+, 24000 sample rate.
+Note: PTT not configured for channel 0. (Ignore this if using VOX.)
+Ready to accept AGW client application 0 on port 8000 ...
+Ready to accept KISS TCP client application 0 on port 8001 ...
+
+EOTD audio level = 62(16/16)   [NONE]   __||_____
+[0.2] EOTD>APDW16:{DTFRONT>REAR:ts=2022-04-05T10:45:27,chain=VALID,msgid=VALID,unit_addr=4540,cmd=STATUS_REQ,hex=16 e9 30 c0 15 42 37 83
+User-Defined Data, DireWolf, WB2OSZ
+
+EOTD audio level = 67(30/25)   [NONE]   __||_____
+[0.2] EOTD>APDW16:{DTFRONT>REAR:ts=2022-04-05T10:45:29,chain=VALID,msgid=VALID,unit_addr=4540,cmd=STATUS_REQ,hex=16 e9 30 c0 15 42 37 83
+User-Defined Data, DireWolf, WB2OSZ
+
+EOTD audio level = 69(26/21)   [NONE]   __||_____
+[0.2] EOTD>APDW16:{DTFRONT>REAR:ts=2022-04-05T10:45:49,chain=VALID,msgid=VALID,unit_addr=10365,cmd=STATUS_REQ,hex=72 ab 13 48 55 45 0f a3
+User-Defined Data, DireWolf, WB2OSZ
+
+EOTD audio level = 65(26/28)   [NONE]   __||_____
+[0.2] EOTD>APDW16:{DTFRONT>REAR:ts=2022-04-05T10:46:25,chain=VALID,msgid=VALID,unit_addr=5411,cmd=STATUS_REQ,hex=da c3 76 8e 55 42 a4 63
+User-Defined Data, DireWolf, WB2OSZ
+
+EOTD audio level = 61(23/20)   [NONE]   __||_____
+[0.2] EOTD>APDW16:{DTFRONT>REAR:ts=2022-04-05T10:46:35,chain=VALID,msgid=VALID,unit_addr=5411,cmd=STATUS_REQ,hex=da c3 76 8e 55 42 a4 63
+User-Defined Data, DireWolf, WB2OSZ
+
+EOTD audio level = 62(22/25)   [NONE]   __||_____
+[0.2] EOTD>APDW16:{DTFRONT>REAR:ts=2022-04-05T10:46:49,chain=VALID,msgid=VALID,unit_addr=10365,cmd=STATUS_REQ,hex=72 ab 13 48 55 45 0f a3
+User-Defined Data, DireWolf, WB2OSZ
+
+EOTD audio level = 61(25/24)   [NONE]   __||_____
+[0.2] EOTD>APDW16:{DTFRONT>REAR:ts=2022-04-05T10:47:08,chain=VALID,msgid=VALID,unit_addr=5975,cmd=STATUS_REQ,hex=ca de ce a5 95 42 ea e3
+User-Defined Data, DireWolf, WB2OSZ
+
+EOTD audio level = 63(29/28)   [NONE]   __||_____
+[0.2] EOTD>APDW16:{DTFRONT>REAR:ts=2022-04-05T10:47:26,chain=VALID,msgid=VALID,unit_addr=4540,cmd=STATUS_REQ,hex=16 e9 30 c0 15 42 37 83
+User-Defined Data, DireWolf, WB2OSZ
+
+EOTD audio level = 67(27/30)   [NONE]   __||_____
+[0.2] EOTD>APDW16:{DTFRONT>REAR:ts=2022-04-05T10:47:28,chain=VALID,msgid=VALID,unit_addr=4540,cmd=STATUS_REQ,hex=16 e9 30 c0 15 42 37 83
+User-Defined Data, DireWolf, WB2OSZ
+
+EOTD audio level = 83(19/20)   [NONE]   __||_____
+[0.2] EOTD>APDW16:{DTFRONT>REAR:ts=2022-04-05T10:47:49,chain=VALID,msgid=VALID,unit_addr=10365,cmd=STATUS_REQ,hex=72 ab 13 48 55 45 0f a3
+User-Defined Data, DireWolf, WB2OSZ
+
+EOTD audio level = 88(19/17)   [NONE]   __||_____
+[0.2] EOTD>APDW16:{DTFRONT>REAR:ts=2022-04-05T10:48:49,chain=VALID,msgid=VALID,unit_addr=10365,cmd=STATUS_REQ,hex=72 ab 13 48 55 45 0f a3
+User-Defined Data, DireWolf, WB2OSZ
+
+EOTD audio level = 62(29/22)   [NONE]   __||_____
+[0.2] EOTD>APDW16:{DTFRONT>REAR:ts=2022-04-05T10:49:10,chain=VALID,msgid=VALID,unit_addr=5975,cmd=STATUS_REQ,hex=ca de ce a5 95 42 ea e3
+User-Defined Data, DireWolf, WB2OSZ
+
+EOTD audio level = 62(24/26)   [NONE]   __||_____
+[0.2] EOTD>APDW16:{DTFRONT>REAR:ts=2022-04-05T10:49:25,chain=VALID,msgid=VALID,unit_addr=4540,cmd=STATUS_REQ,hex=16 e9 30 c0 15 42 37 83
+User-Defined Data, DireWolf, WB2OSZ
+
+EOTD audio level = 82(27/23)   [NONE]   __|______
+[0.2] EOTD>APDW16:{DTFRONT>REAR:ts=2022-04-05T10:49:27,chain=VALID,msgid=VALID,unit_addr=4540,cmd=STATUS_REQ,hex=16 e9 30 c0 15 42 37 83
+User-Defined Data, DireWolf, WB2OSZ
+
+EOTD audio level = 70(27/30)   [NONE]   __||_____
+[0.2] EOTD>APDW16:{DTFRONT>REAR:ts=2022-04-05T10:50:49,chain=VALID,msgid=VALID,unit_addr=10365,cmd=STATUS_REQ,hex=72 ab 13 48 55 45 0f a3
+User-Defined Data, DireWolf, WB2OSZ

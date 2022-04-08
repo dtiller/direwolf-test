@@ -1,0 +1,274 @@
+Dire Wolf version 1.6
+Includes optional support for:  hamlib
+
+Reading config file direwolf.conf
+Audio input device for receive: stdin  (channel 0)
+Audio out device for transmit: Built-in Output  (channel 0)
+Audio input buffer has unexpected extreme size of 0 bytes.
+Detected at /Users/dtiller/direwolf-master/src/audio_portaudio.c, line 724.
+This might be caused by unusual audio device configuration values.
+Using 2048 to attempt recovery.
+Audio output buffer has unexpected extreme size of 0 bytes.
+Detected at /Users/dtiller/direwolf-master/src/audio_portaudio.c, line 733.
+This might be caused by unusual audio device configuration values.
+Using 2048 to attempt recovery.
+Channel 0: 1200 baud, AFSK 1200 & 1800 Hz, E+, 24000 sample rate.
+Note: PTT not configured for channel 0. (Ignore this if using VOX.)
+Ready to accept KISS TCP client application 0 on port 8001 ...
+Ready to accept AGW client application 0 on port 8000 ...
+
+EOTD audio level = 56(15/14)   [NONE]   __||_____
+[0.2] EOTD>APDW16:{DRFRONT>REAR:ts=2022-04-08T10:01:11.040,chain=ONLY,block=BASIC,msgid=VALID,unit_addr=4284,cmd=STATUS_REQ,hex=f4 c6 5a e4 d5 42 17 83
+End-of-Train Device CSV Data, DireWolf, WB2OSZ
+
+EOTD audio level = 59(15/15)   [NONE]   __||_____
+[0.2] EOTD>APDW16:{DRFRONT>REAR:ts=2022-04-08T10:01:25.732,chain=ONLY,block=BASIC,msgid=VALID,unit_addr=5388,cmd=STATUS_REQ,hex=cb 0d fe 75 d5 42 a1 83
+End-of-Train Device CSV Data, DireWolf, WB2OSZ
+
+EOTD audio level = 58(13/13)   [NONE]   __||_____
+[0.2] EOTD>APDW16:{DRFRONT>REAR:ts=2022-04-08T10:01:26.386,chain=ONLY,block=BASIC,msgid=VALID,unit_addr=4828,cmd=STATUS_REQ,hex=f1 35 95 fb d5 42 5b 83
+End-of-Train Device CSV Data, DireWolf, WB2OSZ
+
+EOTD audio level = 52(14/13)   [NONE]   __||_____
+[0.2] EOTD>APDW16:{DRFRONT>REAR:ts=2022-04-08T10:01:54.080,chain=ONLY,block=BASIC,msgid=VALID,unit_addr=5917,cmd=STATUS_REQ,hex=d7 d7 fd ec 95 42 e3 a3
+End-of-Train Device CSV Data, DireWolf, WB2OSZ
+
+EOTD audio level = 55(15/17)   [NONE]   __||_____
+[0.2] EOTD>APDW16:{DRFRONT>REAR:ts=2022-04-08T10:01:56.162,chain=ONLY,block=BASIC,msgid=VALID,unit_addr=5917,cmd=STATUS_REQ,hex=d7 d7 fd ec 95 42 e3 a3
+End-of-Train Device CSV Data, DireWolf, WB2OSZ
+
+EOTD audio level = 55(15/14)   [NONE]   __||_____
+[0.2] EOTD>APDW16:{DRFRONT>REAR:ts=2022-04-08T10:01:59.543,chain=ONLY,block=BASIC,msgid=VALID,unit_addr=67392,cmd=STATUS_REQ,hex=4d 78 28 0b 95 60 e8 03
+End-of-Train Device CSV Data, DireWolf, WB2OSZ
+
+EOTD audio level = 61(12/12)   [NONE]   __||_____
+[0.2] EOTD>APDW16:{DRFRONT>REAR:ts=2022-04-08T10:02:18.659,chain=ONLY,block=BASIC,msgid=VALID,unit_addr=5917,cmd=STATUS_REQ,hex=d7 d7 fd ec 95 42 e3 a3
+End-of-Train Device CSV Data, DireWolf, WB2OSZ
+
+EOTD audio level = 58(15/15)   [NONE]   __||_____
+[0.2] EOTD>APDW16:{DRFRONT>REAR:ts=2022-04-08T10:02:20.998,chain=ONLY,block=BASIC,msgid=VALID,unit_addr=5917,cmd=STATUS_REQ,hex=d7 d7 fd ec 95 42 e3 a3
+End-of-Train Device CSV Data, DireWolf, WB2OSZ
+
+EOTD audio level = 46(15/14)   [NONE]   __||_____
+[0.2] EOTD>APDW16:{DRFRONT>REAR:ts=2022-04-08T10:02:26.458,chain=ONLY,block=BASIC,msgid=VALID,unit_addr=5694,cmd=STATUS_REQ,hex=3d 7d ba eb 55 42 c7 c3
+End-of-Train Device CSV Data, DireWolf, WB2OSZ
+
+EOTD audio level = 59(15/14)   [NONE]   __||_____
+[0.2] EOTD>APDW16:{DRFRONT>REAR:ts=2022-04-08T10:02:31.273,chain=ONLY,block=BASIC,msgid=VALID,unit_addr=4074,cmd=STATUS_REQ,hex=4c bc 45 ed 95 41 fd 43
+End-of-Train Device CSV Data, DireWolf, WB2OSZ
+
+EOTD audio level = 44(15/15)   [NONE]   __||_____
+[0.2] EOTD>APDW16:{DRFRONT>REAR:ts=2022-04-08T10:03:10.150,chain=ONLY,block=BASIC,msgid=VALID,unit_addr=4284,cmd=STATUS_REQ,hex=f4 c6 5a e4 d5 42 17 83
+End-of-Train Device CSV Data, DireWolf, WB2OSZ
+
+EOTD audio level = 47(13/14)   [NONE]   __||_____
+[0.2] EOTD>APDW16:{DRFRONT>REAR:ts=2022-04-08T10:03:27.184,chain=ONLY,block=BASIC,msgid=VALID,unit_addr=4828,cmd=STATUS_REQ,hex=f1 35 95 fb d5 42 5b 83
+End-of-Train Device CSV Data, DireWolf, WB2OSZ
+
+EOTD audio level = 45(15/14)   [NONE]   __||_____
+[0.2] EOTD>APDW16:{DRFRONT>REAR:ts=2022-04-08T10:03:31.347,chain=ONLY,block=BASIC,msgid=VALID,unit_addr=4074,cmd=STATUS_REQ,hex=4c bc 45 ed 95 41 fd 43
+End-of-Train Device CSV Data, DireWolf, WB2OSZ
+
+EOTD audio level = 62(15/20)   [NONE]   __||_____
+[0.2] EOTD>APDW16:{DRFRONT>REAR:ts=2022-04-08T10:04:22.840,chain=ONLY,block=BASIC,msgid=VALID,unit_addr=5917,cmd=STATUS_REQ,hex=d7 d7 fd ec 95 42 e3 a3
+End-of-Train Device CSV Data, DireWolf, WB2OSZ
+
+EOTD audio level = 60(15/16)   [NONE]   __||_____
+[0.2] EOTD>APDW16:{DRFRONT>REAR:ts=2022-04-08T10:04:25.309,chain=ONLY,block=BASIC,msgid=VALID,unit_addr=5917,cmd=STATUS_REQ,hex=d7 d7 fd ec 95 42 e3 a3
+End-of-Train Device CSV Data, DireWolf, WB2OSZ
+
+EOTD audio level = 60(15/14)   [NONE]   __||_____
+[0.2] EOTD>APDW16:{DRFRONT>REAR:ts=2022-04-08T10:04:31.421,chain=ONLY,block=BASIC,msgid=VALID,unit_addr=4074,cmd=STATUS_REQ,hex=4c bc 45 ed 95 41 fd 43
+End-of-Train Device CSV Data, DireWolf, WB2OSZ
+
+EOTD audio level = 46(15/15)   [NONE]   __||_____
+[0.2] EOTD>APDW16:{DRFRONT>REAR:ts=2022-04-08T10:05:09.261,chain=ONLY,block=BASIC,msgid=VALID,unit_addr=4284,cmd=STATUS_REQ,hex=f4 c6 5a e4 d5 42 17 83
+End-of-Train Device CSV Data, DireWolf, WB2OSZ
+
+EOTD audio level = 59(15/14)   [NONE]   __||_____
+[0.2] EOTD>APDW16:{DRFRONT>REAR:ts=2022-04-08T10:05:27.726,chain=ONLY,block=BASIC,msgid=VALID,unit_addr=4828,cmd=STATUS_REQ,hex=f1 35 95 fb d5 42 5b 83
+End-of-Train Device CSV Data, DireWolf, WB2OSZ
+
+EOTD audio level = 60(15/15)   [NONE]   __||_____
+[0.2] EOTD>APDW16:{DRFRONT>REAR:ts=2022-04-08T10:06:00.102,chain=ONLY,block=BASIC,msgid=VALID,unit_addr=67392,cmd=STATUS_REQ,hex=4d 78 28 0b 95 60 e8 03
+End-of-Train Device CSV Data, DireWolf, WB2OSZ
+
+EOTD audio level = 44(15/14)   [NONE]   __||_____
+[0.2] EOTD>APDW16:{DRFRONT>REAR:ts=2022-04-08T10:06:22.338,chain=ONLY,block=BASIC,msgid=VALID,unit_addr=5917,cmd=STATUS_REQ,hex=d7 d7 fd ec 95 42 e3 a3
+End-of-Train Device CSV Data, DireWolf, WB2OSZ
+
+EOTD audio level = 44(15/14)   [NONE]   __||_____
+[0.2] EOTD>APDW16:{DRFRONT>REAR:ts=2022-04-08T10:06:24.420,chain=ONLY,block=BASIC,msgid=VALID,unit_addr=5917,cmd=STATUS_REQ,hex=d7 d7 fd ec 95 42 e3 a3
+End-of-Train Device CSV Data, DireWolf, WB2OSZ
+
+EOTD audio level = 44(15/16)   [NONE]   __||_____
+[0.2] EOTD>APDW16:{DRFRONT>REAR:ts=2022-04-08T10:06:31.569,chain=ONLY,block=BASIC,msgid=VALID,unit_addr=4074,cmd=STATUS_REQ,hex=4c bc 45 ed 95 41 fd 43
+End-of-Train Device CSV Data, DireWolf, WB2OSZ
+
+EOTD audio level = 61(27/31)   [NONE]   __||_____
+[0.2] EOTD>APDW16:{DRFRONT>REAR:ts=2022-04-08T10:07:08.758,chain=ONLY,block=BASIC,msgid=VALID,unit_addr=4284,cmd=STATUS_REQ,hex=f4 c6 5a e4 d5 42 17 83
+End-of-Train Device CSV Data, DireWolf, WB2OSZ
+
+EOTD audio level = 61(25/22)   [NONE]   __||_____
+[0.2] EOTD>APDW16:{DRFRONT>REAR:ts=2022-04-08T10:07:26.832,chain=ONLY,block=BASIC,msgid=VALID,unit_addr=5388,cmd=STATUS_REQ,hex=cb 0d fe 75 d5 42 a1 83
+End-of-Train Device CSV Data, DireWolf, WB2OSZ
+
+EOTD audio level = 60(22/28)   [NONE]   __||_____
+[0.2] EOTD>APDW16:{DRFRONT>REAR:ts=2022-04-08T10:07:28.524,chain=ONLY,block=BASIC,msgid=VALID,unit_addr=4828,cmd=STATUS_REQ,hex=f1 35 95 fb d5 42 5b 83
+End-of-Train Device CSV Data, DireWolf, WB2OSZ
+
+EOTD audio level = 62(25/25)   [NONE]   __||_____
+[0.2] EOTD>APDW16:{DRFRONT>REAR:ts=2022-04-08T10:07:33.724,chain=ONLY,block=BASIC,msgid=VALID,unit_addr=4284,cmd=STATUS_REQ,hex=f4 c6 5a e4 d5 42 17 83
+End-of-Train Device CSV Data, DireWolf, WB2OSZ
+
+EOTD audio level = 49(15/17)   [NONE]   __||_____
+[0.2] EOTD>APDW16:{DRFRONT>REAR:ts=2022-04-08T10:07:59.343,chain=ONLY,block=BASIC,msgid=VALID,unit_addr=67392,cmd=STATUS_REQ,hex=4d 78 28 0b 95 60 e8 03
+End-of-Train Device CSV Data, DireWolf, WB2OSZ
+
+EOTD audio level = 61(25/34)   [NONE]   __||_____
+[0.2] EOTD>APDW16:{DRFRONT>REAR:ts=2022-04-08T10:08:21.836,chain=ONLY,block=BASIC,msgid=VALID,unit_addr=5917,cmd=STATUS_REQ,hex=d7 d7 fd ec 95 42 e3 a3
+End-of-Train Device CSV Data, DireWolf, WB2OSZ
+
+EOTD audio level = 51(22/26)   [NONE]   __||_____
+[0.2] EOTD>APDW16:{DRFRONT>REAR:ts=2022-04-08T10:08:23.918,chain=ONLY,block=BASIC,msgid=VALID,unit_addr=5917,cmd=STATUS_REQ,hex=d7 d7 fd ec 95 42 e3 a3
+End-of-Train Device CSV Data, DireWolf, WB2OSZ
+
+EOTD audio level = 52(24/26)   [NONE]   ___|_____
+[0.3] EOTD>APDW16:{DRFRONT>REAR:ts=2022-04-08T10:08:26.907,chain=ONLY,block=BASIC,msgid=VALID,unit_addr=5694,cmd=STATUS_REQ,hex=3d 7d ba eb 55 42 c7 c3
+End-of-Train Device CSV Data, DireWolf, WB2OSZ
+
+EOTD audio level = 50(24/29)   [NONE]   __||_____
+[0.2] EOTD>APDW16:{DRFRONT>REAR:ts=2022-04-08T10:10:24.906,chain=ONLY,block=BASIC,msgid=VALID,unit_addr=4828,cmd=STATUS_REQ,hex=f1 35 95 fb d5 42 5b 83
+End-of-Train Device CSV Data, DireWolf, WB2OSZ
+
+EOTD audio level = 66(23/22)   [NONE]   __||_____
+[0.2] EOTD>APDW16:{DRFRONT>REAR:ts=2022-04-08T10:10:55.985,chain=ONLY,block=BASIC,msgid=VALID,unit_addr=5975,cmd=STATUS_REQ,hex=ca de ce a5 95 42 ea e3
+End-of-Train Device CSV Data, DireWolf, WB2OSZ
+
+EOTD audio level = 61(18/19)   [NONE]   __||_____
+[0.2] EOTD>APDW16:{DRFRONT>REAR:ts=2022-04-08T10:11:15.102,chain=ONLY,block=BASIC,msgid=VALID,unit_addr=5917,cmd=STATUS_REQ,hex=d7 d7 fd ec 95 42 e3 a3
+End-of-Train Device CSV Data, DireWolf, WB2OSZ
+
+EOTD audio level = 74(22/21)   [NONE]   __||_____
+[0.2] EOTD>APDW16:{DRFRONT>REAR:ts=2022-04-08T10:11:17.440,chain=ONLY,block=BASIC,msgid=VALID,unit_addr=5917,cmd=STATUS_REQ,hex=d7 d7 fd ec 95 42 e3 a3
+End-of-Train Device CSV Data, DireWolf, WB2OSZ
+
+EOTD audio level = 59(16/17)   [NONE]   __||_____
+[0.2] EOTD>APDW16:{DRFRONT>REAR:ts=2022-04-08T10:12:25.318,chain=ONLY,block=BASIC,msgid=VALID,unit_addr=4828,cmd=STATUS_REQ,hex=f1 35 95 fb d5 42 5b 83
+End-of-Train Device CSV Data, DireWolf, WB2OSZ
+
+EOTD audio level = 63(34/38)   [NONE]   __||_____
+[0.2] EOTD>APDW16:{DRFRONT>REAR:ts=2022-04-08T10:13:14.469,chain=ONLY,block=BASIC,msgid=VALID,unit_addr=5917,cmd=STATUS_REQ,hex=d7 d7 fd ec 95 42 e3 a3
+End-of-Train Device CSV Data, DireWolf, WB2OSZ
+
+EOTD audio level = 63(29/32)   [NONE]   __||_____
+[0.2] EOTD>APDW16:{DRFRONT>REAR:ts=2022-04-08T10:13:16.551,chain=ONLY,block=BASIC,msgid=VALID,unit_addr=5917,cmd=STATUS_REQ,hex=d7 d7 fd ec 95 42 e3 a3
+End-of-Train Device CSV Data, DireWolf, WB2OSZ
+
+EOTD audio level = 61(19/18)   [NONE]   __||_____
+[0.2] EOTD>APDW16:{DRFRONT>REAR:ts=2022-04-08T10:13:35.665,chain=ONLY,block=BASIC,msgid=VALID,unit_addr=5957,cmd=STATUS_REQ,hex=ed a7 f2 20 55 42 e8 a3
+End-of-Train Device CSV Data, DireWolf, WB2OSZ
+
+EOTD audio level = 59(15/15)   [NONE]   __||_____
+[0.2] EOTD>APDW16:{DRFRONT>REAR:ts=2022-04-08T10:14:26.246,chain=ONLY,block=BASIC,msgid=VALID,unit_addr=4828,cmd=STATUS_REQ,hex=f1 35 95 fb d5 42 5b 83
+End-of-Train Device CSV Data, DireWolf, WB2OSZ
+
+EOTD audio level = 60(20/19)   [NONE]   __||_____
+[0.2] EOTD>APDW16:{DRFRONT>REAR:ts=2022-04-08T10:15:00.965,chain=ONLY,block=BASIC,msgid=VALID,unit_addr=4991,cmd=STATUS_REQ,hex=00 f5 3c 6c 55 42 6f e3
+End-of-Train Device CSV Data, DireWolf, WB2OSZ
+
+EOTD audio level = 62(20/19)   [NONE]   __||_____
+[0.2] EOTD>APDW16:{DRFRONT>REAR:ts=2022-04-08T10:15:13.967,chain=ONLY,block=BASIC,msgid=VALID,unit_addr=5917,cmd=STATUS_REQ,hex=d7 d7 fd ec 95 42 e3 a3
+End-of-Train Device CSV Data, DireWolf, WB2OSZ
+
+EOTD audio level = 60(17/16)   [NONE]   __||_____
+[0.2] EOTD>APDW16:{DRFRONT>REAR:ts=2022-04-08T10:15:16.048,chain=ONLY,block=BASIC,msgid=VALID,unit_addr=5917,cmd=STATUS_REQ,hex=d7 d7 fd ec 95 42 e3 a3
+End-of-Train Device CSV Data, DireWolf, WB2OSZ
+
+EOTD audio level = 55(16/14)   [NONE]   __||_____
+[0.2] EOTD>APDW16:{DRFRONT>REAR:ts=2022-04-08T10:16:25.012,chain=ONLY,block=BASIC,msgid=VALID,unit_addr=5388,cmd=STATUS_REQ,hex=cb 0d fe 75 d5 42 a1 83
+End-of-Train Device CSV Data, DireWolf, WB2OSZ
+
+EOTD audio level = 59(17/20)   [NONE]   __||_____
+[0.2] EOTD>APDW16:{DRFRONT>REAR:ts=2022-04-08T10:16:26.703,chain=ONLY,block=BASIC,msgid=VALID,unit_addr=4828,cmd=STATUS_REQ,hex=f1 35 95 fb d5 42 5b 83
+End-of-Train Device CSV Data, DireWolf, WB2OSZ
+
+EOTD audio level = 60(18/18)   [NONE]   __||_____
+[0.2] EOTD>APDW16:{DRFRONT>REAR:ts=2022-04-08T10:16:29.433,chain=ONLY,block=BASIC,msgid=VALID,unit_addr=4284,cmd=STATUS_REQ,hex=f4 c6 5a e4 d5 42 17 83
+End-of-Train Device CSV Data, DireWolf, WB2OSZ
+
+EOTD audio level = 48(15/14)   [NONE]   __||_____
+[0.2] EOTD>APDW16:{DRFRONT>REAR:ts=2022-04-08T10:17:00.248,chain=ONLY,block=BASIC,msgid=VALID,unit_addr=4991,cmd=STATUS_REQ,hex=00 f5 3c 6c 55 42 6f e3
+End-of-Train Device CSV Data, DireWolf, WB2OSZ
+
+EOTD audio level = 62(18/18)   [NONE]   __||_____
+[0.2] EOTD>APDW16:{DRFRONT>REAR:ts=2022-04-08T10:17:13.121,chain=ONLY,block=BASIC,msgid=VALID,unit_addr=5917,cmd=STATUS_REQ,hex=d7 d7 fd ec 95 42 e3 a3
+End-of-Train Device CSV Data, DireWolf, WB2OSZ
+
+EOTD audio level = 60(15/14)   [NONE]   __||_____
+[0.2] EOTD>APDW16:{DRFRONT>REAR:ts=2022-04-08T10:17:15.203,chain=ONLY,block=BASIC,msgid=VALID,unit_addr=5917,cmd=STATUS_REQ,hex=d7 d7 fd ec 95 42 e3 a3
+End-of-Train Device CSV Data, DireWolf, WB2OSZ
+
+EOTD audio level = 51(15/14)   [NONE]   __||_____
+[0.2] EOTD>APDW16:{DRFRONT>REAR:ts=2022-04-08T10:17:38.089,chain=ONLY,block=BASIC,msgid=VALID,unit_addr=5957,cmd=STATUS_REQ,hex=ed a7 f2 20 55 42 e8 a3
+End-of-Train Device CSV Data, DireWolf, WB2OSZ
+
+EOTD audio level = 43(17/16)   [NONE]   __||_____
+[0.2] EOTD>APDW16:{DRFRONT>REAR:ts=2022-04-08T10:18:27.629,chain=ONLY,block=BASIC,msgid=VALID,unit_addr=4828,cmd=STATUS_REQ,hex=f1 35 95 fb d5 42 5b 83
+End-of-Train Device CSV Data, DireWolf, WB2OSZ
+
+EOTD audio level = 86(30/28)   [NONE]   ___|_____
+[0.3] EOTD>APDW16:{DRFRONT>REAR:ts=2022-04-08T10:18:59.360,chain=ONLY,block=BASIC,msgid=VALID,unit_addr=4991,cmd=STATUS_REQ,hex=00 f5 3c 6c 55 42 6f e3
+End-of-Train Device CSV Data, DireWolf, WB2OSZ
+
+EOTD audio level = 43(22/22)   [NONE]   __||_____
+[0.2] EOTD>APDW16:{DRFRONT>REAR:ts=2022-04-08T10:19:39.928,chain=ONLY,block=BASIC,msgid=VALID,unit_addr=5957,cmd=STATUS_REQ,hex=ed a7 f2 20 55 42 e8 a3
+End-of-Train Device CSV Data, DireWolf, WB2OSZ
+
+EOTD audio level = 82(23/21)   [NONE]   __||_____
+[0.2] EOTD>APDW16:{DRFRONT>REAR:ts=2022-04-08T10:19:42.267,chain=ONLY,block=BASIC,msgid=VALID,unit_addr=5917,cmd=STATUS_REQ,hex=d7 d7 fd ec 95 42 e3 a3
+End-of-Train Device CSV Data, DireWolf, WB2OSZ
+
+EOTD audio level = 59(22/23)   [NONE]   __||_____
+[0.2] EOTD>APDW16:{DRFRONT>REAR:ts=2022-04-08T10:20:28.042,chain=ONLY,block=BASIC,msgid=VALID,unit_addr=4828,cmd=STATUS_REQ,hex=f1 35 95 fb d5 42 5b 83
+End-of-Train Device CSV Data, DireWolf, WB2OSZ
+
+EOTD audio level = 62(17/16)   [NONE]   __||_____
+[0.2] EOTD>APDW16:{DRFRONT>REAR:ts=2022-04-08T10:20:56.776,chain=ONLY,block=BASIC,msgid=VALID,unit_addr=4991,cmd=STATUS_REQ,hex=00 f5 3c 6c 55 42 6f e3
+End-of-Train Device CSV Data, DireWolf, WB2OSZ
+
+EOTD audio level = 61(42/42)   [NONE]   __||_____
+[0.2] EOTD>APDW16:{DRFRONT>REAR:ts=2022-04-08T10:20:58.728,chain=ONLY,block=BASIC,msgid=VALID,unit_addr=4991,cmd=STATUS_REQ,hex=00 f5 3c 6c 55 42 6f e3
+End-of-Train Device CSV Data, DireWolf, WB2OSZ
+
+EOTD audio level = 60(38/38)   [NONE]   __||_____
+[0.2] EOTD>APDW16:{DRFRONT>REAR:ts=2022-04-08T10:21:41.117,chain=ONLY,block=BASIC,msgid=VALID,unit_addr=5957,cmd=STATUS_REQ,hex=ed a7 f2 20 55 42 e8 a3
+End-of-Train Device CSV Data, DireWolf, WB2OSZ
+
+EOTD audio level = 35(25/25)   [NONE]   __||_____
+[0.2] EOTD>APDW16:{DRFRONT>REAR:ts=2022-04-08T10:21:41.508,chain=ONLY,block=BASIC,msgid=VALID,unit_addr=5917,cmd=STATUS_REQ,hex=d7 d7 fd ec 95 42 e3 a3
+End-of-Train Device CSV Data, DireWolf, WB2OSZ
+
+EOTD audio level = 53(12/12)   [NONE]   __||_____
+[0.2] EOTD>APDW16:{DRFRONT>REAR:ts=2022-04-08T10:28:57.325,chain=ONLY,block=BASIC,msgid=VALID,unit_addr=5975,cmd=STATUS_REQ,hex=ca de ce a5 95 42 ea e3
+End-of-Train Device CSV Data, DireWolf, WB2OSZ
+
+EOTD audio level = 61(21/22)   [NONE]   __||_____
+[0.2] EOTD>APDW16:{DRFRONT>REAR:ts=2022-04-08T10:29:23.980,chain=ONLY,block=BASIC,msgid=VALID,unit_addr=4991,cmd=STATUS_REQ,hex=00 f5 3c 6c 55 42 6f e3
+End-of-Train Device CSV Data, DireWolf, WB2OSZ
+
+EOTD audio level = 60(19/18)   [NONE]   __||_____
+[0.2] EOTD>APDW16:{DRFRONT>REAR:ts=2022-04-08T10:29:26.320,chain=ONLY,block=BASIC,msgid=VALID,unit_addr=4991,cmd=STATUS_REQ,hex=00 f5 3c 6c 55 42 6f e3
+End-of-Train Device CSV Data, DireWolf, WB2OSZ
+
+EOTD audio level = 48(12/12)   [NONE]   __||_____
+[0.2] EOTD>APDW16:{DRFRONT>REAR:ts=2022-04-08T10:29:38.936,chain=ONLY,block=BASIC,msgid=VALID,unit_addr=5917,cmd=STATUS_REQ,hex=d7 d7 fd ec 95 42 e3 a3
+End-of-Train Device CSV Data, DireWolf, WB2OSZ
+
+EOTD audio level = 57(15/14)   [NONE]   __||_____
+[0.2] EOTD>APDW16:{DRFRONT>REAR:ts=2022-04-08T10:29:41.404,chain=ONLY,block=BASIC,msgid=VALID,unit_addr=5917,cmd=STATUS_REQ,hex=d7 d7 fd ec 95 42 e3 a3
+End-of-Train Device CSV Data, DireWolf, WB2OSZ
+
+EOTD audio level = 52(13/12)   [NONE]   __||_____
+[0.2] EOTD>APDW16:{DRFRONT>REAR:ts=2022-04-08T10:29:48.816,chain=ONLY,block=BASIC,msgid=VALID,unit_addr=5957,cmd=STATUS_REQ,hex=ed a7 f2 20 55 42 e8 a3
+End-of-Train Device CSV Data, DireWolf, WB2OSZ

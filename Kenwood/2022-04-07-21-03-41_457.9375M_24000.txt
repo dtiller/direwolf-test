@@ -1,0 +1,32 @@
+Dire Wolf version 1.6
+Includes optional support for:  hamlib
+
+Reading config file direwolf.conf
+Audio input device for receive: stdin  (channel 0)
+Audio out device for transmit: Built-in Output  (channel 0)
+Audio input buffer has unexpected extreme size of 0 bytes.
+Detected at /Users/dtiller/direwolf-master/src/audio_portaudio.c, line 724.
+This might be caused by unusual audio device configuration values.
+Using 2048 to attempt recovery.
+Audio output buffer has unexpected extreme size of 0 bytes.
+Detected at /Users/dtiller/direwolf-master/src/audio_portaudio.c, line 733.
+This might be caused by unusual audio device configuration values.
+Using 2048 to attempt recovery.
+Channel 0: 1200 baud, AFSK 1200 & 1800 Hz, E+, 24000 sample rate.
+Note: PTT not configured for channel 0. (Ignore this if using VOX.)
+Bind failed with error: 48
+Bind failed with error: 48
+Address already in use
+Some other application is probably already using port 8000.
+Address already in use
+Try using a different port number with AGWPORT in the configuration file.
+Some other application is probably already using port 8001.
+Try using a different port number with KISSPORT in the configuration file.
+
+EOTD audio level = 87(20/20)   [NONE]   ___|_____
+[0.3] EOTD>APDW16:{DRREAR>FRONT:ts=2022-04-08T01:06:09.539,chain=ONLY,block=BASIC,devbat=OK,msgid=ONEWAY,unit_addr=4360,brake_status=GO(87 psig),disc_bits=00,valve=OPERATIONAL,confirm=UPDATE,disc_bit_1=1,motion=IN_MOTION,light_batt=OK/NOT_MONITORED,light=ON,hex=ba ef 56 80 57 08 84 0f
+End-of-Train Device CSV Data, DireWolf, WB2OSZ
+
+EOTD audio level = 84(19/19)   [NONE]   __||_____
+[0.2] EOTD>APDW16:{DRREAR>FRONT:ts=2022-04-08T01:06:09.540,chain=ONLY,block=BASIC,devbat=OK,msgid=ONEWAY,unit_addr=4360,brake_status=GO(87 psig),disc_bits=00,valve=OPERATIONAL,confirm=UPDATE,disc_bit_1=1,motion=IN_MOTION,light_batt=OK/NOT_MONITORED,light=ON,hex=ba ef 56 80 57 08 84 0f
+End-of-Train Device CSV Data, DireWolf, WB2OSZ

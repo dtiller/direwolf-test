@@ -6,9 +6,15 @@ The filenames are formatted as YYYY-MM-DD-HH-MM-SS_FREQUENCY_SAMPLERATE.xxx
 
 Files on 452.9375 MHz are Front-to-Rear. 457.9375 MHz is Rear-to-Front.
 
+Github doesn't like huge files, so I addded split_files.sh to chop them into 10m chunks.
+
 To use the files singly:
 
 direwolf -B EOTD -r 24000 - < 'testfile'.bin
+
+Alternately, for split or non-split files, you can use the cat version:
+
+cat YYYY-MM-DD-HH-MM-SS_FREQUENCY_SAMPLERATE*.bin | direwolf -B EOTD -r SAMPLERATE -
 
 --or all of them:
 
